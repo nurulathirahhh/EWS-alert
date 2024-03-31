@@ -125,7 +125,7 @@
 
   // Your web app's Firebase configuration
   const firebaseConfig = {
-    apiKey: "AIzaSyDdmwj8Yi5yWYv8ik9pqQBtXaTyVBu6gVI",
+    apiKey: "AIzaSyDdmwj8Yi5yWVI",
     authDomain: "ewsystem-35c0c.firebaseapp.com",
     databaseURL: "https://ewsystem-35c0c-default-rtdb.asia-southeast1.firebasedatabase.app",
     projectId: "ewsystem-35c0c",
