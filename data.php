@@ -130,8 +130,8 @@
     databaseURL: "https://ewsystem-35c0c-default-rtdb.asia-southeast1.firebasedatabase.app",
     projectId: "ewsystem-35c0c",
     storageBucket: "ewsystem-35c0c.appspot.com",
-    messagingSenderId: "690157144360",
-    appId: "1:690157144360:web:05d50187e1e7fa4daa281d"
+    messagingSenderId: "69015760",
+    appId: "1:690157144360:web:05d50187edaa281d"
   };
 
   // Initialize Firebase
